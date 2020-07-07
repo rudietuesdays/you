@@ -1,5 +1,5 @@
 ---
-title: "Jacke Mastio"
+title: "LeShawn Walker"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,7 +8,7 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 # teacher portrait
 image: "images/teachers/teacher-2.jpg"
 # course
-course: "Computer Science"
+course: "Founder, CEO"
 # biography
 bio: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 # interest
@@ -16,14 +16,19 @@ interest: ["Computer Networking","Computer Security","Human Computer Interfacing
 # contact info
 contact:
   # contact item loop
-  - name : "clarkmalik@email.com"
+  - name : "youreourunity@yahoo.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:clarkmalik@email.com"
+    link : "mailto:youreourunity@yahoo.com"
 
   # contact item loop
-  - name : "+12 034 5876"
+  - name : "718-809-7610"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+120345876"
+    link : "tel:+17188097610"
+
+  # contact item loop
+  - name : "844-YOU-NITY"
+    icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
+    link : "tel:+18449686489"
 
   # contact item loop
   - name : "Clark Malik"

@@ -1,10 +1,10 @@
 ---
-title: "Mark Dinn"
+title: "LeShawn Walker"
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-email: "email2@example.org"
+email: "youreourunity@yahoo.com"
 # portrait
 image: ""
 social:
@@ -16,5 +16,9 @@ social:
     link : "#"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+LeShawn Walker
+Y.O.U, Founder, CEO
+718-809-7610
+844-YOU-NITY
+www.youreourunity.com
+youreourunity@yahoo.com
