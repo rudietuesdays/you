@@ -483,6 +483,9 @@ textarea.form-control {
     .navbar-nav {
       padding-left: 0;
       background: #1a1a37; } }
+.navbar-img {
+  max-height: 80px; }
+
 .nav-bg {
   background-color: #1a1a37; }
 
