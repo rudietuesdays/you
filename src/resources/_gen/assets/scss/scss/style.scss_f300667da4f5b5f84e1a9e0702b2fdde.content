@@ -799,6 +799,13 @@ link:focus,
 .footer-img {
   max-height: 100px; }
 
+.footer .text-color, .footer li, .footer a {
+  color: white; }
+
+.footer .text-color:active, .footer .text-color:focus, .footer .text-color:hover, .footer a:active, .footer a:focus, .footer a:hover {
+  color: #25aae2;
+  text-decoration: underline; }
+
 /* /footer */
 .filter-controls li {
   cursor: pointer;

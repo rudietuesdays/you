@@ -225,4 +225,15 @@
   max-height: 100px;
 }
 
+.footer {
+  & .text-color, li, a {
+    color: white;
+  }
+
+  & .text-color:active, .text-color:focus, .text-color:hover, a:active, a:focus, a:hover {
+    color: $primary-color;
+    text-decoration: underline;
+  }
+}
+
 /* /footer */
