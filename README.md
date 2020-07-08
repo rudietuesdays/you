@@ -1,6 +1,8 @@
 # You're Our Unity
 A new site introducing YOU, build with the Hugo Educenter theme, Netlify and Forestry.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/17a87ed3-e637-4ce5-996e-dc80e5cc10cc/deploy-status)](https://app.netlify.com/sites/youreourunity/deploys)
+
 ## Easy Setup (Hugo + Netlify + Forestry)
 Build your website with educenter hugo theme by following this easy steps (No Coding Required)
 
