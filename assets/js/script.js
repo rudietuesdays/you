@@ -1,10 +1,10 @@
 (function ($) {
   'use strict';
 
-  // Preloader js    
-  $(window).on('load', function () {
-    $('.preloader').fadeOut(100);
-  });
+  // Preloader js
+  // $(window).on('load', function () {
+  //   $('.preloader').fadeOut(100);
+  // });
 
   // Sticky Menu
   $(window).scroll(function () {
@@ -20,7 +20,7 @@
     }
   });
 
-  
+
 
   // Background-images
   $('[data-background]').each(function () {
