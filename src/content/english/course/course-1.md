@@ -1,17 +1,17 @@
 ---
-title: "Photography"
-date: 2019-07-06T15:27:17+06:00
+title: "Introduction to YOU"
+date: 2020-07-11T00:00:00Z
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # course thumbnail
-image: "images/courses/course-1.jpg"
+image: "images/question-mark.png"
 # taxonomy
 category: "Photography"
 # teacher
-teacher: "Clark Malik"
+teacher: "LeShawn Walker"
 # duration
 duration : "06 Month"
 # weekly
