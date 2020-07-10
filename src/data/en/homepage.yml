@@ -1,27 +1,38 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  bg_image : "images/banner/banner-1.jpg"
+  bg_image : "images/banner/hug.jpg"
   slider_item:
     # slider item loop
-    - title : "Test slide 1"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Dare to be Y.O.U."
+      content : ""
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
-        enable : true
+        enable : false
         label : "Read more about us"
         link : "about"
 
     # slider item loop
-    - title : "Test slide 2"
-      content : "Etiam habebis sem dicantur magna mollis euismod. Cum sociis natoque penatibus et magnis dis parturient."
+    - title : "Exemplify a spirit of peace and love in the world"
+      content : ""
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
-        enable : true
+        enable : false
+        label : "Contact us"
+        link : "contact"
+
+    # slider item loop
+    - title : "Unity cannot exist without Y.O.U."
+      content : ""
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : false
         label : "Contact us"
         link : "contact"
 
