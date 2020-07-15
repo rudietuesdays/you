@@ -9,14 +9,12 @@
 # Production context:
 # All deploys from the main repository branch
 # will inherit these settings.
-[context.production]
-  publish = "public"
-  command = "hugo --gc --themesDir ../.."
+# [context.production]
+#   publish = "public"
+#   command = "hugo --gc --themesDir ../.."
 
 # Branch deploy context:
 # All deploys that are not from a pull/merge request
 # or from the production branch will inherit these settings.
 [context.dev]
-  publish = "public"
-  command = "hugo --gc --themesDir ../.."
-  base = "dev"
+  publish = "dist"
