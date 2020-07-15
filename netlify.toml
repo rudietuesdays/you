@@ -16,4 +16,6 @@
 # Branch deploy context:
 # All deploys that are not from a pull/merge request
 # or from the production branch will inherit these settings.
-# [context.dev]
+[context.dev]
+  publish = "public"
+  command = "hugo --gc --themesDir ../.."
