@@ -5,3 +5,18 @@
 [build.environment]
   HUGO_VERSION = "0.71.1"
   HUGO_THEME = "repo"
+
+# Production context:
+# All deploys from the main repository branch
+# will inherit these settings.
+[context.production]
+  publish = "public"
+  command = "hugo --gc --themesDir ../.."
+
+# Branch deploy context:
+# All deploys that are not from a pull/merge request
+# or from the production branch will inherit these settings.
+[context.dev]
+  publish = "public"
+  command = "hugo --gc --themesDir ../.."
+  base = "dev"
