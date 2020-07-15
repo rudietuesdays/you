@@ -1,20 +1,20 @@
 {{ define "main" }}
 
-<!-- notice -->
+<!-- update -->
 <section class="section">
   <div class="container">
     <div class="row">
       <div class="col-12">
         <ul class="list-unstyled">
-          <!-- notice item -->
+          <!-- update item -->
           {{ range .Data.Pages }}
-          {{ .Render "notice" }}
+          {{ .Render "update" }}
           {{ end }}
         </ul>
       </div>
     </div>
   </div>
 </section>
-<!-- /notice -->
+<!-- /update -->
 
 {{ end }}
