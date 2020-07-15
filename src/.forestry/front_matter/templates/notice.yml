@@ -1,5 +1,5 @@
 ---
-label: Notice
+label: update
 hide_body: false
 fields:
 - type: text
@@ -19,8 +19,8 @@ fields:
 - type: text
   name: download_link
   label: download_link
-  description: Notice download link
+  description: update download link
 - type: text
   name: type
   label: type
-  default: notice
+  default: update

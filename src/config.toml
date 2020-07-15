@@ -7,7 +7,7 @@ paginate = "6"
 # post excerpt
 summaryLength = "10"
 # disqus short name
-disqusShortname = "educenter" # get your shortname form here : https://disqus.com
+# disqusShortname = "you" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
 
@@ -45,77 +45,112 @@ link = "plugins/google-map/gmap.js"
 
 # main menu
 [[menu.main]]
-name = "About"
+name = "Who is YOU"
 URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "course"
-URL = "course"
+name = "The YOUniversity"
+# URL = "university"
+hasChildren = true
 weight = 2
 
+  [[menu.main]]
+  parent = "The YOUniversity"
+  name = "Programs"
+  URL = "programs"
+  weight = 1
+
+  [[menu.main]]
+  parent = "The YOUniversity"
+  name = "Courses"
+  URL = "courses"
+  weight = 2
+
+  [[menu.main]]
+  parent = "The YOUniversity"
+  name = "Archive"
+  URL = "archive"
+  weight = 3
+
 [[menu.main]]
-weight = 3
-name = "Pages"
+name = "YOU News"
 hasChildren = true
+weight = 3
 
   [[menu.main]]
-  parent = "Pages"
-  name = "teacher"
-  URL = "teacher"
+  parent = "YOU News"
+  name = "Events"
+  URL = "events"
+  weight = 1
 
   [[menu.main]]
-  parent = "Pages"
-  name = "notice"
-  URL = "notice"
+  parent = "YOU News"
+  name = "updates"
+  URL = "updates"
+  weight = 2
 
   [[menu.main]]
-  parent = "Pages"
-  name = "event"
-  URL = "event"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "scholarship"
-  URL = "scholarship"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "research"
-  URL = "research"
+  parent = "YOU News"
+  name = "Blog"
+  URL = "blog"
+  weight = 3
 
 [[menu.main]]
-name = "blog"
-URL = "blog"
+name = "The YOUNIT"
+hasChildren = true
 weight = 4
 
+  [[menu.main]]
+  parent = "The YOUNIT"
+  name = "Team Info"
+  URL = "team"
+  weight = 1
+
+  [[menu.main]]
+  parent = "The YOUNIT"
+  name = "Member Registration"
+  URL = "registration"
+  weight = 2
+
 [[menu.main]]
-name = "Contact"
-URL = "contact"
+name = "YOU Connect"
+hasChildren = true
 weight = 5
 
+  [[menu.main]]
+  parent = "YOU Connect"
+  name = "Contact Info"
+  URL = "contact"
+  weight = 1
+
+  [[menu.main]]
+  parent = "YOU Connect"
+  name = "Inquiries"
+  URL = "inquiries"
+  weight = 2
 
 # footer menu
 
 [[menu.footer]]
-name = "teacher"
+name = "YOUniversity Programs"
 URL = "teacher"
 
 [[menu.footer]]
-name = "notice"
-URL = "notice"
+name = "updates"
+URL = "updates"
 
 [[menu.footer]]
-name = "event"
-URL = "event"
+name = "Blog"
+URL = "blog"
 
 [[menu.footer]]
-name = "scholarship"
-URL = "scholarship"
+name = "Registration"
+URL = "registration"
 
 [[menu.footer]]
-name = "research"
-URL = "research"
+name = "Contact"
+URL = "contact"
 
 
 #################### default parameters ################################

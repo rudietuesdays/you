@@ -88,8 +88,8 @@
 - id: courses
   translation: Courses
 
-- id: new_notice
-  translation: new notice
+- id: new_update
+  translation: new update
 
 - id: call
   translation: call

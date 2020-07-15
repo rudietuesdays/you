@@ -53,21 +53,21 @@ sections:
   templates:
   - course
 - type: heading
-  label: Notice
+  label: update
 - type: directory
-  path: exampleSite/content/english/notice
-  label: Notice (en)
+  path: exampleSite/content/english/update
+  label: update (en)
   create: all
   match: "**/*"
   templates:
-  - notice
+  - update
 - type: directory
-  path: exampleSite/content/french/notice
-  label: Notice (fr)
+  path: exampleSite/content/french/update
+  label: update (fr)
   create: all
   match: "**/*"
   templates:
-  - notice
+  - update
 - type: heading
   label: Teacher
 - type: directory

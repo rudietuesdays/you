@@ -1,31 +1,19 @@
 ---
-title: "Algorithme"
-date: 2019-07-06T15:27:17+06:00
+title: "Launching YOU"
+date: 2020-07-11T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/banner/hug.jpg"
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-# course thumbnail
-image: "images/courses/course-5.jpg"
-# taxonomy
-category: "Programming"
-# teacher
-teacher: "Zim Cook"
-# duration
-duration: "06 mois"
-# weekly
-weekly: "03 heures"
-# course fee
-fee: "À partir de 699$"
-# apply url
-apply_url : "#"
+# update download link
+download_link : "#"
 # type
-type: "course"
+type: "update"
 ---
 
 
-### À propos du cours
+### About update
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
@@ -36,9 +24,9 @@ laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et qu
 dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
 consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
 ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.</p>
+labore et dolore magnam aliquam quaerat voluptatem.
 
-### Prérequis
+### Requirements
 
 
 
@@ -48,16 +36,7 @@ labore et dolore magnam aliquam quaerat voluptatem.</p>
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
 
-### Comment postuler
-
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-
-
-### Frais et financement
+### Fees and Funding
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
