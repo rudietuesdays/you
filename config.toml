@@ -172,7 +172,7 @@ top_header = true
 
 # Preloader
 [params.preloader]
-enable = false
+enable = true
 preloader = "images/logo-circle.png" # use jpg, png, svg or gif format.
 
 # Subscription
