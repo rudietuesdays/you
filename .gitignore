@@ -13,3 +13,6 @@ builds
 package-lock.json
 public
 DS_Store
+
+# Local Netlify folder
+.netlify
