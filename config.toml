@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://youreourunity.netlify.app/"
+baseURL = "https://youreourunity-dev.netlify.app/"
 title = "You're Our Unity"
 theme = "you"
 # post pagination
